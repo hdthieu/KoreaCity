@@ -125,7 +125,7 @@
     "lat": "35.8562",
     "long": "129.2242"
 },
-"JC": {
+"JU": {
     "name": "Jeju City",
     "capital": "Jeju City",
     "lat": "33.4890",
@@ -179,7 +179,7 @@
     "lat": "36.0190",
     "long": "129.3715"
 },
-"JJ": {
+"JI": {
     "name": "Jinju",
     "capital": "Jinju",
     "lat": "35.1928",
@@ -227,7 +227,7 @@
   "lat": "36.1216",
   "long": "128.1195"
 },
-"GO": {
+"GE": {
   "name": "Geoje",
   "capital": "Geoje",
   "lat": "34.8772",
@@ -251,7 +251,7 @@
   "lat": "37.7519",
   "long": "128.8761"
 },
-"GJ": {
+"GON": {
   "name": "Gongju",
   "capital": "Gongju",
   "lat": "36.4448",
@@ -299,7 +299,7 @@
   "lat": "37.6369",
   "long": "127.2164"
 },
-"IC": {
+"ICH": {
   "name": "Icheon",
   "capital": "Icheon",
   "lat": "37.2795",
@@ -311,7 +311,7 @@
   "lat": "35.9753",
   "long": "128.9486"
 },
-"GM": {
+"GUM": {
   "name": "Gumi",
   "capital": "Gumi",
   "lat": "36.1216",
@@ -335,7 +335,7 @@
   "lat": "37.8920",
   "long": "126.7017"
 },
-"HS": {
+"HOS": {
   "name": "Hongseong",
   "capital": "Hongseong",
   "lat": "36.5983",
@@ -347,13 +347,13 @@
   "lat": "37.4274",
   "long": "127.0702"
 },
-"GJ": {
+"GJ1": {
   "name": "Gwangju",
   "capital": "Gwangju",
   "lat": "35.1710",
   "long": "126.9110"
 },
-"GJ": {
+"GJ2": {
   "name": "Gwangju",
   "capital": "Gwangju",
   "lat": "37.5547",
